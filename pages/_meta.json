@@ -1,7 +1,16 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "Home",
+  "quickstarts": "Quickstarts",
+  "guides": "Guides",
+  "authentication": "Authentication",
+  "users": "Users",
+  "courses": "Courses",
+  "dashboard": "Dashboard",
+  "news": "News",
+  "live-events": "Live Events",
+  "chat": "Chat",
+  "docHub": "Documents",
+  "catgeory": "Category",
   "about": {
     "title": "About",
     "type": "page"
