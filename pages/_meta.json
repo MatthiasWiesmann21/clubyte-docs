@@ -8,9 +8,9 @@
   "dashboard": "Dashboard",
   "news": "News",
   "live-events": "Live Events",
+  "categories": "Categories",
   "chat": "Chat",
   "docHub": "Documents",
-  "catgeory": "Category",
   "about": {
     "title": "About",
     "type": "page"
