@@ -1,11 +1,16 @@
-import React from 'react'
-import { DocsThemeConfig } from 'nextra-theme-docs'
+import React from "react";
+import { DocsThemeConfig } from "nextra-theme-docs";
+import Image from "next/image";
 
 const config: DocsThemeConfig = {
-  logo: <span>Clubyte Docs</span>,
+  logo: (
+    <Image src="/clubyte - Logo Original - transparent white v2.png" alt="Clubyte Logo" width={150} height={150}></Image>
+  ),
+  logoLink: "https://clubyte.live",
   footer: {
-    text: 'Nextra Docs Template',
+    text: "Clubyte Docs",
   },
-}
+  darkMode: false,
+};
 
-export default config
+export default config;

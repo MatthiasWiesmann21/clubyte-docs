@@ -1,9 +1,7 @@
 {
   "index": "Home",
-  "quickstarts": "Quickstarts",
   "guides": "Guides",
-  "authentication": "Authentication",
-  "users": "Users",
+  "authentication": "Authentication & User Management",
   "courses": "Courses",
   "dashboard": "Dashboard",
   "news": "News",
@@ -12,13 +10,15 @@
   "chat": "Chat",
   "docHub": "Documents",
   "about": {
-    "title": "About",
-    "type": "page"
+    "title": "About Us",
+    "type": "page",
+    "href": "https://clubyte.live/about-us",
+    "newWindow": true
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Contact Us ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://clubyte.live/contact-us",
     "newWindow": true
   }
 }
