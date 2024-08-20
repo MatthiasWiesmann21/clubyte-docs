@@ -1,0 +1,25 @@
+{
+    "index": "Home",
+    "guides": "Guides",
+    "authentication": "Authentication & User Management",
+    "courses": "Courses",
+    "dashboard": "Dashboard",
+    "news": "News",
+    "live-events": "Live Events",
+    "categories": "Categories",
+    "chat": "Chat",
+    "docHub": "Documents",
+    "about": {
+      "title": "About Us",
+      "type": "page",
+      "href": "https://clubyte.live/about-us",
+      "newWindow": true
+    },
+    "contact": {
+      "title": "Contact Us ↗",
+      "type": "page",
+      "href": "https://clubyte.live/contact-us",
+      "newWindow": true
+    }
+  }
+  
