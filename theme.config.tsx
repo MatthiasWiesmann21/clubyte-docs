@@ -11,10 +11,6 @@ const config: DocsThemeConfig = {
     text: "Clubyte Docs",
   },
   darkMode: false,
-  i18n: [
-    { locale: 'en-US', text: 'English' },
-    { locale: 'de-DE', text: 'Deutsch' },
-  ]
 };
 
 export default config;
