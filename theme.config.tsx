@@ -1,5 +1,5 @@
 import React from "react";
-import { DocsThemeConfig } from "nextra-theme-docs";
+import { DocsThemeConfig, ThemeSwitch } from "nextra-theme-docs";
 import Image from "next/image";
 
 const config: DocsThemeConfig = {
@@ -11,6 +11,11 @@ const config: DocsThemeConfig = {
     text: "Clubyte Docs",
   },
   darkMode: false,
+  sidebar: {
+    defaultMenuCollapseLevel: 1,
+    toggleButton: true,
+  },
+  primaryHue: 310,
 };
 
 export default config;
