@@ -1,6 +1,7 @@
 {
   "index": "Home",
   "authentication": "Authentication & User Management",
+  "navigation": "Navigation",
   "courses": "Courses",
   "dashboard": "Dashboard",
   "news": "News",
